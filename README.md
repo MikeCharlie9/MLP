@@ -1,6 +1,6 @@
 # MLP
 
-#### This is a collection of Python program for Multi-Layer Perceptron network
+#### This is a collection of Python programs for Multi-Layer Perceptron network
 
 
 ---
