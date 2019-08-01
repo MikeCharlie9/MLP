@@ -31,10 +31,6 @@ weight1 = random.uniform(-0.1, 0.1, (L1, L2))
 bias1 = np.matrix(np.zeros(L2))
 
 
-variationWeight1=np.random.normal(0,0.5,(L1,L2))
-variationBias1=np.random.normal(0,0.5,L2)
-
-
 def sigmoid(data):
     return 1/(1+np.exp(-data))
 
